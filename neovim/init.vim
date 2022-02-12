@@ -50,4 +50,28 @@ au BufRead,BufNewFile *.es6 setf javascript
 au BufRead,BufNewFile *.tsx setf typescriptreact
 au BufRead,BufNewFile *.md set filetype=markdown
 
+nnoremap <Left> :echoe "Use h"<CR>
+nnoremap <Right> :echoe "Use l"<CR>
+nnoremap <Up> :echoe "Use k"<CR>
+nnoremap <Down> :echoe "Use j"<CR>
 
+runtime ./plug.vim
+
+nnoremap <Leader>% :vsplit<CR>
+nnoremap <Leader>" :split<CR>
+nnoremap <Leader>% :vsplit<CR>
+nnoremap <Leader>" :split<CR>
+nnoremap <Leader>% :vsplit<CR>
+nnoremap <Leader>" :split<CR>
+nnoremap <Leader>% :vsplit<CR>
+nnoremap <Leader>" :split<CR>
+nnoremap <Leader>% :vsplit<CR>
+nnoremap <Leader>" :split<CR>
+nnoremap <Leader>% :vsplit<CR>
+nnoremap <Leader>" :split<CR>
+nnoremap <Leader>% :vsplit<CR>
+nnoremap <Leader>" :split<CR>
+nnoremap <Leader>% :vsplit<CR>
+nnoremap <Leader>" :split<CR>
+nnoremap <Leader>% :vsplit<CR>
+nnoremap <Leader>" :split<CR>
